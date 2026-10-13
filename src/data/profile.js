@@ -5,7 +5,7 @@ export const profile = {
   location: "Bandung, Jawa Barat",
   availability: "Terbuka untuk posisi full-time",
   intro:
-    "Saya membangun website yang rapi, cepat, dan mudah dipakai. Fokus saya di sisi frontend dengan React, dan saya nyaman bekerja sampai ke sisi backend bila diperlukan.",
+    "Saya membangun website yang rapi, dapat berguna, dan mudah dipakai. Fokus saya di sisi frontend dengan React, dan saya nyaman bekerja sampai ke sisi backend bila diperlukan.",
   about: [
     "Saya lulusan Teknik Informatika dari Universitas Komputer Indonesia. Sejak 2022 saya mulai belajar pemrograman web dan sudah mengerjakan beberapa proyek, baik untuk tugas kuliah, klien kecil, maupun proyek pribadi.",
     "Saya terbiasa bekerja dengan Git, membaca dokumentasi, dan menyelesaikan masalah langkah demi langkah. Di luar coding, saya suka Main Game.",
@@ -77,7 +77,7 @@ export const experience = [
     period: "JULI - SEPTEMBER 2025",
     title: "Magang Web Developer",
     place: "Kesatuan Bangsa Dan Politik Bandung",
-    detail: "Membantu pengembangan fitur backend, memperbaiki bug, dan menulis dokumentasi.",
+    detail: "Mengerjakan project website backend, memperbaiki bug, dan menulis dokumentasi.",
   },
   {
     period: "2022 — 2026",

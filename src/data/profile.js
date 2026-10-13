@@ -24,7 +24,7 @@ export const socials = [
 
 export const skills = [
   { group: "Frontend", items: ["React", "JavaScript (ES6+)", "HTML5", "CSS3", "Tailwind CSS", "Responsive Design"] },
-  { group: "Backend", items: ["Node.js", "Express", "REST API", "MySQL", "MongoDB"] },
+  { group: "Backend", items: ["Node.js", "Express", "REST API", "MySQL", "MongoDB","Laravel"] },
   { group: "Alat Kerja", items: ["Git & GitHub", "Cursor", "Figma", "Postman", "Vite"] },
   { group: "Kemampuan Lain", items: ["Kerja tim", "Manajemen waktu", "Komunikasi", "Problem solving"] },
 ];
@@ -67,12 +67,12 @@ export const projects = [
 ];
 
 export const experience = [
-  {
-    period: "2025 — Sekarang",
-    title: "Freelance Web Developer",
-    place: "Mandiri",
-    detail: "Mengerjakan website untuk klien kecil: company profile, landing page, dan sistem sederhana.",
-  },
+  // {
+  //   period: "2025 — Sekarang",
+  //   title: "Freelance Web Developer",
+  //   place: "Mandiri",
+  //   detail: "Mengerjakan website untuk klien kecil: company profile, landing page, dan sistem sederhana.",
+  // },
   {
     period: "JULI - SEPTEMBER 2025",
     title: "Magang Web Developer",
